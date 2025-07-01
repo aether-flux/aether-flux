@@ -6,7 +6,7 @@ A developer who loves diving deep into the tech behind things, and loves buildin
 
 [![twitter-badge](https://img.shields.io/badge/aetheros____-e6e6e6?style=for-the-badge&logo=x&logoColor=0a0a0a)](https://x.com/aetheros__)
 [![devto-badge](https://img.shields.io/badge/aetherflux-0a0a0a?style=for-the-badge&logo=devdotto)](https://dev.to/aetherflux)
-[![buymeacoffee-badge](https://img.shields.io/badge/aetherflux-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a)](https://buymeacoffee)
+[![buymeacoffee-badge](https://img.shields.io/badge/aetherflux-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a)](https://buymeacoffee.com/aetherflux)
 [![portfolio-badge](https://img.shields.io/badge/portfolio-red?style=for-the-badge)](https://amartya-dev.vercel.app)
 
 ## 👨‍💻 My Skills
