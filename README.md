@@ -15,7 +15,8 @@ A developer who loves diving deep into rabbit holes and how stuff works, and dev
 
 ## My Skills
 
-![skill-badge](https://img.shields.io/badge/c-CE422B?style=for-the-badge&logo=C)
+![skill-badge](https://img.shields.io/badge/c-3178C6?style=for-the-badge&logo=C)
+![skill-badge](https://img.shields.io/badge/rust-CE422B?style=for-the-badge&logo=rust)
 ![skill-badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1a1a)
 ![skill-badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=e6e6e6)
 ![skill-badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
